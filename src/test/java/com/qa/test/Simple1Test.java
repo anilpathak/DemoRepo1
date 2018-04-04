@@ -29,6 +29,7 @@ public class Simple1Test {
 	@Test
 	public void div()
 	{
+		//
 		int a = 20;
 		int b=10;
 		System.out.println(a/b);
